@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="white">#FFFFFF</color>
+    <string name="activate_notifications">Activar Notificaciones</string>
+    <string name="app_name">Clima y Sismo Inteligente</string>
+    <string name="city_default">Ayacucho</string>
+    <string name="connect_device">Conectar equipo</string>
+    <string name="current_temperature">Temperatura actual</string>
+    <string name="details">Detalles</string>
+    <string name="device_status">Estado del Equipo</string>
+    <string name="disable_notifications">Desactivar notificaciones</string>
+    <string name="enable_notifications">Activar notificaciones</string>
+    <string name="frost_alert">¡Alerta de helada!</string>
+    <string name="gcm_defaultSenderId" translatable="false">506037893399</string>
+    <string name="google_api_key" translatable="false">AIzaSyD8RGdnrh0hnfOxxuDpHUQeL3bmaHlh4gU</string>
+    <string name="google_app_id" translatable="false">1:506037893399:android:b7c6001606054af9891f52</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD8RGdnrh0hnfOxxuDpHUQeL3bmaHlh4gU</string>
+    <string name="google_storage_bucket" translatable="false">pruebasistemaclima1.firebasestorage.app</string>
+    <string name="last_earthquake">Último sismo cercano</string>
+    <string name="offline_mode">Modo offline: mostrando últimos datos guardados</string>
+    <string name="project_id" translatable="false">pruebasistemaclima1</string>
+    <string name="see_more">Ver más datos</string>
+    <string name="settings">Configuración</string>
+    <string name="temperature_threshold">Umbral de temperatura</string>
+    <style name="Theme.ClimaYSismoInteligente" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:statusBarColor" ns1:targetApi="l">@color/purple_700</item>
+    </style>
+</resources>

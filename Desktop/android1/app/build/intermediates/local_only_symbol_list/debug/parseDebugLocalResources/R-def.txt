@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color purple_500
+color purple_700
+color teal_200
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+mipmap ic_launcher
+mipmap ic_launcher_round
+string activate_notifications
+string app_name
+string city_default
+string connect_device
+string current_temperature
+string details
+string device_status
+string disable_notifications
+string enable_notifications
+string frost_alert
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string google_storage_bucket
+string last_earthquake
+string offline_mode
+string project_id
+string see_more
+string settings
+string temperature_threshold
+style Theme.ClimaYSismoInteligente

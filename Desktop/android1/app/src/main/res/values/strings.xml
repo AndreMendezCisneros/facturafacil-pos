@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Clima y Sismo Inteligente</string>
+    <string name="city_default">Ayacucho</string>
+    <string name="see_more">Ver más datos</string>
+    <string name="activate_notifications">Activar Notificaciones</string>
+    <string name="details">Detalles</string>
+    <string name="settings">Configuración</string>
+    <string name="device_status">Estado del Equipo</string>
+    <string name="connect_device">Conectar equipo</string>
+    <string name="temperature_threshold">Umbral de temperatura</string>
+    <string name="enable_notifications">Activar notificaciones</string>
+    <string name="disable_notifications">Desactivar notificaciones</string>
+    <string name="last_earthquake">Último sismo cercano</string>
+    <string name="current_temperature">Temperatura actual</string>
+    <string name="frost_alert">¡Alerta de helada!</string>
+    <string name="offline_mode">Modo offline: mostrando últimos datos guardados</string>
+</resources> 

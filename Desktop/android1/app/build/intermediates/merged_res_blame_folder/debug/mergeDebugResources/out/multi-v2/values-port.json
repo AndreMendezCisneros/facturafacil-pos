@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.climaysismointeligente.app-mergeDebugResources-67:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\USUARIO\\.gradle\\caches\\transforms-4\\7578ed9a9e27524edaa88af7e35be3cc\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

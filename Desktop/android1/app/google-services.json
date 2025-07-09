@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506037893399",
+    "project_id": "pruebasistemaclima1",
+    "storage_bucket": "pruebasistemaclima1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506037893399:android:b7c6001606054af9891f52",
+        "android_client_info": {
+          "package_name": "com.climaysismointeligente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8RGdnrh0hnfOxxuDpHUQeL3bmaHlh4gU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

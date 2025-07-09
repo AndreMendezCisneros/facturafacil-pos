@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">506037893399</string>
+    <string name="google_api_key" translatable="false">AIzaSyD8RGdnrh0hnfOxxuDpHUQeL3bmaHlh4gU</string>
+    <string name="google_app_id" translatable="false">1:506037893399:android:b7c6001606054af9891f52</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD8RGdnrh0hnfOxxuDpHUQeL3bmaHlh4gU</string>
+    <string name="google_storage_bucket" translatable="false">pruebasistemaclima1.firebasestorage.app</string>
+    <string name="project_id" translatable="false">pruebasistemaclima1</string>
+</resources>
