@@ -1,1 +1,0 @@
-# ProGuard rules for Clima y Sismo Inteligente 
