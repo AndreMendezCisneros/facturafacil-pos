@@ -1,0 +1,374 @@
+01-08 22:01:53.121 21864 21887 I TestRunner: started: testImageButton4Click(com.example.app_educacion.ExampleInstrumentedTest)
+01-08 22:01:53.125  1153  1584 D EGL_emulation: app_time_stats: avg=46.36ms min=1.68ms max=322.49ms count=20
+01-08 22:01:53.132  1153  1153 D SearchTargetUtil: queryLength=0 size=15
+01-08 22:01:53.133  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=solo leveling season 2 anime,input_query=android.app.search.Query@6f43da3,group_id=web20490887,response_id=8347d3d3-59cc-4192-8bbf-d1ae380d6b92,support_query_builder=false,} searchAction=solo leveling season 2 anime searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: ef1494f5-9368-486b-ae95-105cf17d29b0
+01-08 22:01:53.133  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=jasprit bumrah injury,input_query=android.app.search.Query@6f43da3,group_id=web20490887,response_id=8347d3d3-59cc-4192-8bbf-d1ae380d6b92,support_query_builder=false,} searchAction=jasprit bumrah injury searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: eceb3ed0-722d-4d00-9e41-e93b90abef72
+01-08 22:01:53.133  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=nyt connections hints january 4,input_query=android.app.search.Query@6f43da3,group_id=web20490887,response_id=8347d3d3-59cc-4192-8bbf-d1ae380d6b92,support_query_builder=false,} searchAction=nyt connections hints january 4 searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: d4cb7c84-396a-4a4d-86ce-5616d09b25e0
+01-08 22:01:53.133  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=sonic hedgehog 3 streaming release date,input_query=android.app.search.Query@6f43da3,group_id=web20490887,response_id=8347d3d3-59cc-4192-8bbf-d1ae380d6b92,support_query_builder=false,} searchAction=sonic hedgehog 3 streaming release date searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: 2dc5fbc9-f3c0-456f-844f-05ebfd3ff00f
+01-08 22:01:53.133  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=new movies streaming,input_query=android.app.search.Query@6f43da3,group_id=web20490887,response_id=8347d3d3-59cc-4192-8bbf-d1ae380d6b92,support_query_builder=false,} searchAction=new movies streaming searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: 315d7725-d9e4-4f95-b4db-3f297024f9a6
+01-08 22:01:53.133  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=human metapneumovirus hmpv outbreak,input_query=android.app.search.Query@6f43da3,group_id=web20490887,response_id=8347d3d3-59cc-4192-8bbf-d1ae380d6b92,support_query_builder=false,} searchAction=human metapneumovirus hmpv outbreak searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: d8ab9dbf-0f30-4fdb-97b9-aecbac1c9d4c
+01-08 22:01:53.133  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=fcc net neutrality rules,input_query=android.app.search.Query@6f43da3,group_id=web20490887,response_id=8347d3d3-59cc-4192-8bbf-d1ae380d6b92,support_query_builder=false,} searchAction=fcc net neutrality rules searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: f180c69a-00ad-4a8f-bd2b-ef97d3583c42
+01-08 22:01:53.133  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=nintendo switch games,input_query=android.app.search.Query@6f43da3,group_id=web20490887,response_id=8347d3d3-59cc-4192-8bbf-d1ae380d6b92,support_query_builder=false,} searchAction=nintendo switch games searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: ba083e97-d272-435e-99ae-79e3e01c0068
+01-08 22:01:53.133  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=moana 2 streaming release date,input_query=android.app.search.Query@6f43da3,group_id=web20490887,response_id=8347d3d3-59cc-4192-8bbf-d1ae380d6b92,support_query_builder=false,} searchAction=moana 2 streaming release date searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: bbc7a9ae-51e2-46e3-acc5-f6a94cbc64dd
+01-08 22:01:53.136  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=nfl playoff format,input_query=android.app.search.Query@6f43da3,group_id=web20490887,response_id=8347d3d3-59cc-4192-8bbf-d1ae380d6b92,support_query_builder=false,} searchAction=nfl playoff format searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: 6a8cfefe-958d-48cd-ab87-69b82f5a5332
+01-08 22:01:53.137  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=spicy falafel pocket,input_query=android.app.search.Query@6f43da3,group_id=web20490887,response_id=8347d3d3-59cc-4192-8bbf-d1ae380d6b92,support_query_builder=false,} searchAction=spicy falafel pocket searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: 3ed628aa-6576-4614-b48b-fa4e7e59afd8
+01-08 22:01:53.137  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=real madrid vs valencia cf,input_query=android.app.search.Query@6f43da3,group_id=web20490887,response_id=8347d3d3-59cc-4192-8bbf-d1ae380d6b92,support_query_builder=false,} searchAction=real madrid vs valencia cf searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: d4a3490e-cb65-47f0-91df-4d59a530cec6
+01-08 22:01:53.137  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=venus moon tonight,input_query=android.app.search.Query@6f43da3,group_id=web20490887,response_id=8347d3d3-59cc-4192-8bbf-d1ae380d6b92,support_query_builder=false,} searchAction=venus moon tonight searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: 8c64c750-4842-4b39-99ce-64b2d5186ca1
+01-08 22:01:53.137  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=matthew livelsberger,input_query=android.app.search.Query@6f43da3,group_id=web20490887,response_id=8347d3d3-59cc-4192-8bbf-d1ae380d6b92,support_query_builder=false,} searchAction=matthew livelsberger searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: 82b17a18-109f-464a-9913-a790139cf248
+01-08 22:01:53.137  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=aurora borealis northern lights forecast,input_query=android.app.search.Query@6f43da3,group_id=web20490887,response_id=8347d3d3-59cc-4192-8bbf-d1ae380d6b92,support_query_builder=false,} searchAction=aurora borealis northern lights forecast searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: 3bbd823c-7717-4596-8633-9d588beb9adb
+01-08 22:01:53.143  1153  1153 I TopTaskTracker: onTaskRemoved: taskId=61
+01-08 22:01:53.143  1153  1153 I TopTaskTracker: onTaskRemoved: taskId=61
+01-08 22:01:53.153 21864 21887 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+01-08 22:01:53.213  1625  1625 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.ocr.service.internal.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsInternalApiService }
+01-08 22:01:53.213  1625  1625 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.ocr.service.internal.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsInternalApiService }
+01-08 22:01:53.230   594   949 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@409e8ab7 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-08 22:01:53.235   594   772 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+01-08 22:01:53.247 21658 21741 I Finsky  : [112] agvn.a(203): [PLUS] Syncing 1 train(s)
+01-08 22:01:53.247 21658 21741 I Finsky  : [112] amta.a(205): [PLUS] Sending payloads for account: [2fKVkThB4QBVOwc88U06EJ4S6Yyqenathz2XlaLEUMg]
+01-08 22:01:53.257   594   772 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+01-08 22:01:53.257   594   772 D InetDiagMessage: Destroyed live tcp sockets for uids={10195} in 29ms
+01-08 22:01:53.258   594   772 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+01-08 22:01:53.259   594   772 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+01-08 22:01:53.266   594   772 D InetDiagMessage: Destroyed live tcp sockets for uids={20195} in 9ms
+01-08 22:01:54.750   425   518 W EventThread: Faking VSYNC due to driver stall for thread appSf
+01-08 22:01:54.771   415   540 W AudioFlinger: write blocked for 1486 msecs, 1 delayed writes, thread 13
+01-08 22:01:54.771   378 10911 D android.hardware.audio@7.1-impl.ranchu: threadLoop: entering standby, frames: 11061696
+01-08 22:01:54.786  1153  1153 W SplitSelectStateCtor: Missing session instanceIds
+01-08 22:01:54.786  1153  1153 D StatsLog: LAUNCHER_SPLIT_SELECTION_EXIT_INTERRUPTED
+01-08 22:01:54.798  1098  1765 I ActivityScheduler: nextTriggerTime: 20731318, in 238100ms, detectorType: 39, FULL_TYPE alarmWindowMillis: 80000
+01-08 22:01:54.823  1625 17707 I FileApkMgr: Skip staging: CronetDynamite.apk as there's already an installed split.
+01-08 22:01:54.849  1098 22137 W NetworkScheduler: The extras of the task (com.google.android.gms.ocr.service.ModelCleanUpTaskService:type_[4]) are not valid to be persisted so that the task is not persisted [CONTEXT service_id=218 ]
+01-08 22:01:54.849  1098 22137 W NetworkScheduler: java.lang.IllegalArgumentException: Only the following extra parameter types are supported: Integer, Long, Double, String, Boolean, and nested Bundles with the same restrictions.
+01-08 22:01:54.849  1098 22137 W NetworkScheduler: 	at bsoe.f(:com.google.android.gms@244337038@24.43.37 (260800-693941914):69)
+01-08 22:01:54.849  1098 22137 W NetworkScheduler: 	at dhyf.d(:com.google.android.gms@244337038@24.43.37 (260800-693941914):502)
+01-08 22:01:54.849  1098 22137 W NetworkScheduler: 	at dhvr.n(:com.google.android.gms@244337038@24.43.37 (260800-693941914):29)
+01-08 22:01:54.849  1098 22137 W NetworkScheduler: 	at dhvr.u(:com.google.android.gms@244337038@24.43.37 (260800-693941914):360)
+01-08 22:01:54.849  1098 22137 W NetworkScheduler: 	at dhvr.h(:com.google.android.gms@244337038@24.43.37 (260800-693941914):51)
+01-08 22:01:54.849  1098 22137 W NetworkScheduler: 	at dhqk.run(:com.google.android.gms@244337038@24.43.37 (260800-693941914):72)
+01-08 22:01:54.849  1098 22137 W NetworkScheduler: 	at annu.c(:com.google.android.gms@244337038@24.43.37 (260800-693941914):50)
+01-08 22:01:54.849  1098 22137 W NetworkScheduler: 	at annu.run(:com.google.android.gms@244337038@24.43.37 (260800-693941914):76)
+01-08 22:01:54.849  1098 22137 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1145)
+01-08 22:01:54.849  1098 22137 W NetworkScheduler: 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:644)
+01-08 22:01:54.849  1098 22137 W NetworkScheduler: 	at ante.run(:com.google.android.gms@244337038@24.43.37 (260800-693941914):8)
+01-08 22:01:54.849  1098 22137 W NetworkScheduler: 	at java.lang.Thread.run(Thread.java:1012)
+01-08 22:01:54.879   425   425 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-08 22:01:54.921  1625 17707 I FileApkMgr: Skip staging: DynamiteModulesA.apk as there's already an installed split.
+01-08 22:01:54.932  1153  1153 I TopTaskTracker: onTaskMovedToFront: (moved taskInfo to front) taskId=63, baseIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.app_educacion/.MainActivity }
+01-08 22:01:54.937 21864 21864 D LifecycleMonitor: Lifecycle status change: com.example.app_educacion.MainActivity@572e3ca in: PRE_ON_CREATE
+01-08 22:01:54.937 21864 21864 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+01-08 22:01:54.979  1153  1584 D EGL_emulation: app_time_stats: avg=123.63ms min=2.98ms max=1730.04ms count=20
+01-08 22:01:55.033  1519  1958 D BugleRcsEngine: log_saver already enabled
+01-08 22:01:55.086 21864 21864 D LifecycleMonitor: Lifecycle status change: com.example.app_educacion.MainActivity@572e3ca in: CREATED
+01-08 22:01:55.086 21864 21864 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=com.example.app_educacion.MainActivity@572e3ca
+01-08 22:01:55.088 21864 21864 D LifecycleMonitor: Lifecycle status change: com.example.app_educacion.MainActivity@572e3ca in: STARTED
+01-08 22:01:55.088 21864 21864 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=com.example.app_educacion.MainActivity@572e3ca
+01-08 22:01:55.090 21864 21864 D LifecycleMonitor: Lifecycle status change: com.example.app_educacion.MainActivity@572e3ca in: RESUMED
+01-08 22:01:55.090 21864 21864 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=com.example.app_educacion.MainActivity@572e3ca
+01-08 22:01:55.124  1625 17707 I FileApkMgr: Skip staging: DynamiteModulesC.apk as there's already an installed split.
+01-08 22:01:55.125  1625  1625 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.gms.potokens.service.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsApiService }
+01-08 22:01:55.125 21864 21864 D AutofillManager: view not autofillable - not passing ime action check
+01-08 22:01:55.125 21864 21864 D AutofillManager: view not autofillable - not passing ime action check
+01-08 22:01:55.233   594   613 W system_server: Suspending all threads took: 9.753ms
+01-08 22:01:55.265  1625 17707 I FileApkMgr: Skip staging: GoogleCertificates.apk as there's already an installed split.
+01-08 22:01:55.309  1153  1584 D EGL_emulation: app_time_stats: avg=2179.08ms min=2179.08ms max=2179.08ms count=1
+01-08 22:01:55.311 22119 22172 I GooglePartnerSetup: Phenotype commit successes
+01-08 22:01:55.311 22119 22172 W JobInfo : Job 'com.google.android.partnersetup/.ClientIdJobService#8192' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+01-08 22:01:55.311 21658 21658 I Finsky  : [2] mvi.a(144): [PLUS] Received response
+01-08 22:01:55.312   594  1930 W JobInfo : Job 'com.google.android.partnersetup/.ClientIdJobService#8192' has a deadline with no functional constraints. The deadline won't improve job execution latency. Consider removing the deadline.
+01-08 22:01:55.345   594   621 W ziparchive: Unable to open '/data/app/~~JyORVfJ9sGxMeB91IsxbSQ==/com.example.app_educacion-eqKI7w7Ohc0H67mKuEMjfw==/base.dm': No such file or directory
+01-08 22:01:55.363   594   621 I ActivityTaskManager: Displayed com.example.app_educacion/.MainActivity for user 0: +2s113ms
+01-08 22:01:55.367  1625 17707 I FileApkMgr: Skip staging: MapsDynamite.apk as there's already an installed split.
+01-08 22:01:55.384  1625 17707 I FileApkMgr: Skip staging: MeasurementDynamite.apk as there's already an installed split.
+01-08 22:01:55.401  1625 17707 I GmsModuleFndr: Beginning GMS chimera module scan
+01-08 22:01:55.404  1625 17707 I ModuleSetResolution: Computing pending module set with APKs: [[AdsFdrDynamite.integ:243799204100000], [Antifingerprinting.optional:244337100000], [Appsearch.optional:244337100800], [BrellaDynamite.optional:244337100800], [MapsCoreDynamite.integ:243625202100800], [MlkitBarcodeUi.optional:244337100800], [MlkitOcrCommon.optional:244337100800], [PlayCloudSearch.optional:244337100000], [TfliteDynamiteDynamite.integ:242327804100800], [VisionBarcode.optional:244337100800], [VisionOcr.optional:244337100000], [AdsFdrDynamite.integ:243220703100000], [Dynamiteloader:244337260000], [Cronetdynamite:244337260800], [Dynamitemodulesa:244337260000], [Dynamitemodulesc:244337260000], [Googlecertificates:244337260000], [Mapsdynamite:244337260000], [Measurementdynamite:244337260000]]
+01-08 22:01:55.406  1625 17707 I ModuleSetResolution: Pending container module APKs: [[Antifingerprinting.optional:244337100000], [Appsearch.optional:244337100800], [BrellaDynamite.optional:244337100800], [MapsCoreDynamite.integ:243625202100800], [MlkitBarcodeUi.optional:244337100800], [MlkitOcrCommon.optional:244337100800], [PlayCloudSearch.optional:244337100000], [VisionBarcode.optional:244337100800], [VisionOcr.optional:244337100000]]
+01-08 22:01:55.407  1625 17707 I ModuleSetResolution: Pending non-container module APKs: [[TfliteDynamiteDynamite.integ:242327804100800], [AdsFdrDynamite.integ:243799204100000]]
+01-08 22:01:55.414   594   737 I ImeTracker: com.example.app_educacion:ebd913a4: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+01-08 22:01:55.417   594   737 I ImeTracker: com.example.app_educacion:ebd913a4: onCancelled at PHASE_SERVER_SHOULD_HIDE
+01-08 22:01:55.421  1153  1153 D VRI[NexusLauncherActivity]: visibilityChanged oldVisibility=true newVisibility=false
+01-08 22:01:55.429  1153  1153 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=7}
+01-08 22:01:55.446 21864 21887 W SurfaceComposerClient: Sync transaction timed out waiting for commit callback.
+01-08 22:01:55.450   594   613 I system_server: NativeAlloc concurrent mark compact GC freed 10041KB AllocSpace bytes, 4(80KB) LOS objects, 42% free, 32MB/56MB, paused 57.846ms,1.943ms total 2.172s
+01-08 22:01:55.450  1337  1337 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3157
+01-08 22:01:55.459   594  8151 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+01-08 22:01:55.461 21864 21864 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131362055/com.example.app_educacion:id/imageButton4>
+01-08 22:01:55.469  1337  1337 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2248 repeatCheckTimes = 0, locked = false
+01-08 22:01:55.470  1337  1337 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1986 onStartInput(EditorInfo{EditorInfo{packageName=com.example.app_educacion, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+01-08 22:01:55.476   594  8151 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+01-08 22:01:55.494  1337  1337 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2248 repeatCheckTimes = 1, locked = false
+01-08 22:01:55.494  1337  1337 I AndroidIME: InputBundleManager.loadActiveInputBundleId():450 loadActiveInputBundleId: und-Latn-x-password, password
+01-08 22:01:55.504 21864 21887 I UiAutomation: Initialized for user 0 on display 0
+01-08 22:01:55.549 21658 21763 I Finsky  : [120] syu.c(27): App not installed com.android.hardware.authsecret
+01-08 22:01:55.550 21658 21763 W Finsky  : [120] syx.d(45): Frosting: Failed to get Frosting Creation Time for com.android.hardware.authsecret. Error: com.android.hardware.authsecret
+01-08 22:01:55.551  1153  1153 D BaseDepthController: setSurface:
+01-08 22:01:55.551  1153  1153 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+01-08 22:01:55.551  1153  1153 D BaseDepthController: 	mSurface: null
+01-08 22:01:55.552  1153  1153 D BaseDepthController: mSurface is null and mCurrentBlur is: 23
+01-08 22:01:55.552  1153  1153 D StatsLog: LAUNCHER_ONSTOP
+01-08 22:01:55.553  1153  1974 D GmsPlayProvider: Shut down the binder channel
+01-08 22:01:55.553   594   615 W System  : A resource failed to call HardwareBuffer.close.
+01-08 22:01:55.553  1153  1153 D StatsLog: LAUNCHER_GOOGLE_SEARCH_RESTORE_LIST_SIZE_AFTER_ACTIVITY_RESTART
+01-08 22:01:55.553   594   615 W System  : A resource failed to call HardwareBuffer.close.
+01-08 22:01:55.553   594   615 W System  : A resource failed to call HardwareBuffer.close.
+01-08 22:01:55.554   594   615 W System  : A resource failed to call release.
+01-08 22:01:55.554   594   615 W System  : A resource failed to call HardwareBuffer.close.
+01-08 22:01:55.554   594   615 W System  : A resource failed to call release.
+01-08 22:01:55.554   594   615 W System  : A resource failed to call HardwareBuffer.close.
+01-08 22:01:55.556   594   615 W System  : A resource failed to call release.
+01-08 22:01:55.557   594   615 W System  : A resource failed to call HardwareBuffer.close.
+01-08 22:01:55.557   594   615 W System  : A resource failed to call release.
+01-08 22:01:55.557   594   615 W System  : A resource failed to call release.
+01-08 22:01:55.590  1153  1619 D OneSearchSuggestProvider: Shut down the binder channel
+01-08 22:01:55.593  1153 12125 I IPCThreadState: oneway function results for code 2 on binder at 0x7012e4e86fd0 will be dropped but finished with status UNKNOWN_TRANSACTION
+01-08 22:01:55.626  1471  3645 I AiAiEcho: Settings changed for uri: content://settings/secure/accessibility_enabled
+01-08 22:01:55.627  1471  1704 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+01-08 22:01:55.627  1471  1704 I AiAiEcho: EchoTargets:
+01-08 22:01:55.627  1471  1704 I AiAiEcho: Filtered by AiAi flag check:
+01-08 22:01:55.627  1471  1704 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+01-08 22:01:55.634   594   594 W IPCThreadState: Sending oneway calls to frozen process.
+01-08 22:01:55.635   594   594 W IPCThreadState: Sending oneway calls to frozen process.
+01-08 22:01:55.639   594   594 W IPCThreadState: Sending oneway calls to frozen process.
+01-08 22:01:55.642   594   594 W IPCThreadState: Sending oneway calls to frozen process.
+01-08 22:01:55.643   594   594 W IPCThreadState: Sending oneway calls to frozen process.
+01-08 22:01:55.644   594   594 W IPCThreadState: Sending oneway calls to frozen process.
+01-08 22:01:55.659   370   370 I Zygote  : Process 20870 exited due to signal 9 (Killed)
+01-08 22:01:55.667   865   920 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda11@1cad8b8
+01-08 22:01:55.673   594  1612 W InputManager-JNI: Input channel object 'afaf6d1 Splash Screen com.example.app_educacion (client)' was disposed without first being removed with the input manager!
+01-08 22:01:55.677  1471  1704 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:  [CONTEXT ratelimit_period="10 SECONDS" ]
+01-08 22:01:55.677  1471  1704 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+01-08 22:01:55.683   594   635 I libprocessgroup: Removed cgroup /sys/fs/cgroup/uid_10137/pid_20870
+01-08 22:01:55.692  1471  1704 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+01-08 22:01:55.692  1471  1704 I AiAiEcho: EchoTargets:
+01-08 22:01:55.692  1471  1704 I AiAiEcho: Filtered by AiAi flag check:
+01-08 22:01:55.692  1471  1704 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+01-08 22:01:55.692  1471  1704 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:  [CONTEXT ratelimit_period="10 SECONDS" ]
+01-08 22:01:55.693  1471  1704 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+01-08 22:01:55.693  1471  1704 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+01-08 22:01:55.693  1471  1704 I AiAiEcho: EchoTargets:
+01-08 22:01:55.693  1471  1704 I AiAiEcho: Filtered by AiAi flag check:
+01-08 22:01:55.693  1471  1704 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+01-08 22:01:55.703  1471  1704 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:  [CONTEXT ratelimit_period="10 SECONDS" ]
+01-08 22:01:55.703  1471  1704 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+01-08 22:01:55.714  1471  1704 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface lockscreen with targets# 0 (types=[])
+01-08 22:01:55.722  1471  1704 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface media_data_manager with targets# 0 (types=[])
+01-08 22:01:55.722  1471  1704 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+01-08 22:01:55.757   865   865 W PageIndicator: Total number of pages invalid: 0. Assuming 1 page.
+01-08 22:01:55.766   865   865 D SsMediaDataProvider: Forwarding Smartspace updates []
+01-08 22:01:55.767  1153  1153 D SsBaseTemplateCard: No text view can be set up
+01-08 22:01:55.767  1153  1153 D SsBaseTemplateCard: Passed-in item info is null
+01-08 22:01:55.767  1153  1153 D SsBaseTemplateCard: Passed-in item info is null
+01-08 22:01:55.768  1153  1153 D SsBaseTemplateCard: Passed-in item info is null
+01-08 22:01:55.768  1153  1153 I SsBaseTemplateCard: Secondary card pane is null
+01-08 22:01:55.824 21864 21864 D DeviceCapture: Found 1 global views to redraw
+01-08 22:01:55.838 21658 21763 I Finsky  : [120] syu.c(27): App not installed com.android.apex.cts.shim
+01-08 22:01:55.839 21658 21763 W Finsky  : [120] syx.d(45): Frosting: Failed to get Frosting Creation Time for com.android.apex.cts.shim. Error: com.android.apex.cts.shim
+01-08 22:01:55.847 10176 10254 I A       : NGA disabled since it's running Panthera and at least one a11y feature is on.
+01-08 22:01:55.852   865   959 D EGL_emulation: app_time_stats: avg=192.88ms min=9.92ms max=2979.60ms count=20
+01-08 22:01:55.878 10176 10254 I A       : (REDACTED) Nga state changed to %s
+01-08 22:01:55.891 21864 21864 I forceRedraw: FrameCommitCallback complete
+01-08 22:01:55.896 10176 10254 I A       : (REDACTED) isTngActive=%s
+01-08 22:01:56.088  1486  1955 I A       : (REDACTED) Nga on-device enabled based on TNG:MA active state: %b
+01-08 22:01:56.100  1486  1955 I A       : (REDACTED) Nga on-device enabled based on TNG:MA active state: %b
+01-08 22:01:56.114  1486  1955 I A       : Unsubscribed to apa or classic variant change.
+01-08 22:01:56.230 19708 19718 I PlayCore: UID: [10146]  PID: [19708] AppUpdateService : reportBinderDeath
+01-08 22:01:56.243 19708 19718 I PlayCore: UID: [10146]  PID: [19708] AppUpdateService : AppUpdateService : Binder has died.
+01-08 22:01:56.272 21864 21864 I DeviceCapture: got bitmap, returning
+01-08 22:01:56.276 21864 21887 D FileTestStorage: openOutputFile from /sdcard/Android/media/com.example.app_educacion/additional_test_output/view-op-error-1.png
+01-08 22:01:56.402 21658 21763 I Finsky  : [120] syu.c(27): App not installed com.google.android.profiling
+01-08 22:01:56.403 21658 21763 W Finsky  : [120] syx.d(45): Frosting: Failed to get Frosting Creation Time for com.google.android.profiling. Error: com.google.android.profiling
+01-08 22:01:56.503  1458  3471 W MediaProvider: isAppCloneUserPair for user 0: false
+01-08 22:01:56.515  1458  3471 W MediaProvider: isAppCloneUserPair for user 0: false
+01-08 22:01:56.518  1458  3471 W MediaProvider: isAppCloneUserPair for user 0: false
+01-08 22:01:56.522 19708 21052 D CompatChangeReporter: Compat change id reported: 263076149; UID 10146; state: ENABLED
+01-08 22:01:56.554 21658 21763 I Finsky  : [120] syu.c(27): App not installed com.android.virt
+01-08 22:01:56.554 21658 21763 W Finsky  : [120] syx.d(45): Frosting: Failed to get Frosting Creation Time for com.android.virt. Error: com.android.virt
+01-08 22:01:56.557 21658 21763 I Finsky  : [120] syu.c(27): App not installed com.android.hardware.neuralnetworks
+01-08 22:01:56.558 21658 21763 W Finsky  : [120] syx.d(45): Frosting: Failed to get Frosting Creation Time for com.android.hardware.neuralnetworks. Error: com.android.hardware.neuralnetworks
+01-08 22:01:56.572  1625  1625 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.chromesync.service.firstparty.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsApiService }
+01-08 22:01:56.572  1625  1625 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.chromesync.service.firstparty.START dat=chimera-action:/... cmp=com.google.android.gms/.chimera.GmsApiService }
+01-08 22:01:56.622 21658 21763 I Finsky  : [120] syu.c(27): App not installed com.android.i18n
+01-08 22:01:56.622 21658 21763 W Finsky  : [120] syx.d(45): Frosting: Failed to get Frosting Creation Time for com.android.i18n. Error: com.android.i18n
+01-08 22:01:56.678  1098 21634 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+01-08 22:01:56.680  1098 21634 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+01-08 22:01:56.699 21658 21763 I Finsky  : [120] syu.c(27): App not installed com.android.hardware.cas
+01-08 22:01:56.700 21658 21763 W Finsky  : [120] syx.d(45): Frosting: Failed to get Frosting Creation Time for com.android.hardware.cas. Error: com.android.hardware.cas
+01-08 22:01:56.748 21864 21916 D EGL_emulation: app_time_stats: avg=94.57ms min=2.96ms max=856.76ms count=14
+01-08 22:01:56.835 21658 21763 I Finsky  : [120] syu.c(27): App not installed com.google.android.runtime
+01-08 22:01:56.836 21658 21763 W Finsky  : [120] syx.d(45): Frosting: Failed to get Frosting Creation Time for com.google.android.runtime. Error: com.google.android.runtime
+01-08 22:01:56.890   370   370 I Zygote  : Process 20976 exited due to signal 9 (Killed)
+01-08 22:01:56.905   594   635 I libprocessgroup: Removed cgroup /sys/fs/cgroup/uid_10160/pid_20976
+01-08 22:01:57.286 21658 21763 I Finsky  : [120] syu.c(27): App not installed com.android.hardware.rebootescrow
+01-08 22:01:57.286 21658 21763 W Finsky  : [120] syx.d(45): Frosting: Failed to get Frosting Creation Time for com.android.hardware.rebootescrow. Error: com.android.hardware.rebootescrow
+01-08 22:01:57.464 21658 21763 I Finsky  : [120] vuo.b(43): Created new item store.
+01-08 22:01:57.821   594  1930 V GrammaticalInflectionUtils: AttributionSource: android.content.AttributionSource@7e0d0113 does not have READ_SYSTEM_GRAMMATICAL_GENDER permission.
+01-08 22:01:57.845  1153  1153 I TopTaskTracker: onTaskMovedToFront: (moved taskInfo to front) taskId=64, baseIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10000000 cmp=com.example.app_educacion.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity }
+01-08 22:01:57.849 21864 21864 D LifecycleMonitor: Lifecycle status change: com.example.app_educacion.MainActivity@572e3ca in: PAUSED
+01-08 22:01:57.849 21864 21864 V ActivityScenario: Update currentActivityStage to PAUSED, currentActivity=com.example.app_educacion.MainActivity@572e3ca
+01-08 22:01:57.862   425   425 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+01-08 22:01:57.927 22007 22029 I EGL_emulation: Opening libGLESv1_CM_emulation.so
+01-08 22:01:57.929 22007 22029 I EGL_emulation: Opening libGLESv2_emulation.so
+01-08 22:01:57.993 22007 22029 W HWUI    : Failed to choose config with EGL_SWAP_BEHAVIOR_PRESERVED, retrying without...
+01-08 22:01:57.993 22007 22029 W HWUI    : Failed to initialize 101010-2 format, error = EGL_SUCCESS
+01-08 22:01:58.020 21864 21916 D EGL_emulation: app_time_stats: avg=73.88ms min=3.15ms max=951.31ms count=15
+01-08 22:01:58.129   393   432 I RanchuHwc: logCompositionFallbackIfChanged: layer 483 CompositionType fallback from 3 to 1
+01-08 22:01:58.222   594   772 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET, states=14
+01-08 22:01:58.222   594   772 D InetDiagMessage: Destroyed 0 sockets, proto=IPPROTO_TCP, family=AF_INET6, states=14
+01-08 22:01:58.222   594   772 D InetDiagMessage: Destroyed live tcp sockets for uids={10195} in 1ms
+01-08 22:01:58.268   594   621 W ziparchive: Unable to open '/data/app/~~uaDORNlAzbD_-p3st9VFag==/com.example.app_educacion.test-g7242biSVvjTCtpLm8ik5g==/base.dm': No such file or directory
+01-08 22:01:58.271   594   621 I ActivityTaskManager: Displayed com.example.app_educacion.test/androidx.test.core.app.InstrumentationActivityInvoker$EmptyActivity for user 0: +447ms
+01-08 22:01:58.286   865   959 D EGL_emulation: app_time_stats: avg=256.90ms min=1.72ms max=2281.58ms count=9
+01-08 22:01:58.287  1153  1153 I TopTaskTracker: onTaskMovedToFront: (moved taskInfo to front) taskId=9, baseIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000100 cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity }
+01-08 22:01:58.294  1153  1153 D StatsLog: LAUNCHER_ONRESUME
+01-08 22:01:58.298  1153  1153 D NexusLauncherModelDelegate: notifySmartspaceEvent: SmartspaceTargetEvent{mSmartspaceTarget=null, mSmartspaceActionId='null', mEventType=6}
+01-08 22:01:58.300  1153  1153 D BaseDepthController: mSurface is null and mCurrentBlur is: 23
+01-08 22:01:58.301  1153  1215 D QuickstepModelDelegate: notifyAppTargetEvent action=1 launchLocation=
+01-08 22:01:58.303   594  1508 W AppSearchIcing: icing-search-engine.cc:321: Error: 5, Message: Document (com.google.android.googlequicksearchbox$OneSearchZeroStateGoogleSuggestions/default, zp) not found.
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: AppSearch 0-state cache not available, fallback to AGA
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: java.util.concurrent.CompletionException: java.util.NoSuchElementException: No value present
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:308)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:323)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:684)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:486)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2138)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at com.google.android.apps.nexuslauncher.allapps.E0.onResult(go/retraceme 2855a437b73635ce9cad76b9289087e631bbb67fc90008a0da13d343a00e5041:67)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at android.app.appsearch.SearchSessionUtil$1.lambda$onResult$0(go/retraceme 64eee9e9f568ff45978879ad2ff83146f2618ee8a88278736fbdf5fae931976e:144)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at android.app.appsearch.SearchSessionUtil$1.$r8$lambda$CEk3q8sDAQVhU3rQwVueB8FAj_M(go/retraceme 64eee9e9f568ff45978879ad2ff83146f2618ee8a88278736fbdf5fae931976e:1)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at android.app.appsearch.SearchSessionUtil$1$$ExternalSyntheticLambda0.run(go/retraceme 64eee9e9f568ff45978879ad2ff83146f2618ee8a88278736fbdf5fae931976e:22)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at android.os.Handler.handleCallback(Handler.java:959)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at android.os.Looper.loopOnce(Looper.java:232)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at android.os.Looper.loop(Looper.java:317)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at android.os.HandlerThread.run(HandlerThread.java:85)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: Caused by: java.util.NoSuchElementException: No value present
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at java.util.Optional.get(Optional.java:143)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	at com.google.android.apps.nexuslauncher.allapps.E0.onResult(go/retraceme 2855a437b73635ce9cad76b9289087e631bbb67fc90008a0da13d343a00e5041:28)
+01-08 22:01:58.304  1153  1619 D OneSearchSuggestProvider: 	... 8 more
+01-08 22:01:58.309  1153  1619 D OneSearchSuggestProvider: Created the binder channel successfully for end point service =com.google.android.apps.search.googleapp.search.suggest.plugins.onesearch.server.OneSearchSuggestService , mChannel=i1{delegate=f{logId=169, target=directaddress:///AndroidComponentAddress%5BIntent%20%7B%20act=grpc.io.action.BIND%20cmp=com.google.android.googlequicksearchbox/com.google.android.apps.search.googleapp.search.suggest.plugins.onesearch.server.OneSearchSuggestService%20%7D%5D}} , mOneSearchConnection=l2.Z@200f32c
+01-08 22:01:58.320  1153  1168 W System  : A resource failed to call release.
+01-08 22:01:58.320  1153  1168 W System  : A resource failed to call release.
+01-08 22:01:58.320  1153  1168 W System  : A resource failed to call release.
+01-08 22:01:58.320  1153  1168 W s.nexuslauncher: ApkAssets: Deleting an ApkAssets object '<empty> and /data/app/~~JyORVfJ9sGxMeB91IsxbSQ==/com.example.app_educacion-eqKI7w7Ohc0H67mKuEMjfw==/base.apk' with 1 weak references
+01-08 22:01:58.327  1153  1153 D BaseDepthController: setSurface:
+01-08 22:01:58.327  1153  1153 D BaseDepthController: 	mWaitingOnSurfaceValidity: false
+01-08 22:01:58.327  1153  1153 D BaseDepthController: 	mSurface: Surface(name=com.google.android.apps.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity)/@0xb086941
+01-08 22:01:58.362  1098  2202 I ChimeraSrvcProxy: NullBinder for android.net.action.RECOMMEND_NETWORKS triggering remote TransactionTooLargeException due to Service without Chimera impl
+01-08 22:01:58.362  1098  2202 W .gms.persistent: Large reply transaction of 1056768 bytes, interface descriptor , code 1
+01-08 22:01:58.370  1471  1704 I AiAiEcho: Predicting[0]:  [CONTEXT sampling_count=5 ]
+01-08 22:01:58.370  1471  1704 I AiAiEcho: EchoTargets:
+01-08 22:01:58.370  1471  1704 I AiAiEcho: Filtered by AiAi flag check:
+01-08 22:01:58.370  1471  1704 I AiAiEcho: [CONTEXT ratelimit_period="10 SECONDS" ]
+01-08 22:01:58.370  1471  1704 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:  [CONTEXT ratelimit_period="10 SECONDS" ]
+01-08 22:01:58.371  1471  1704 I AiAiEcho: #remoteViewsTwiddler: feature disabled.
+01-08 22:01:58.371  1471  1704 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+01-08 22:01:58.382  1519  1919 I BugleRcsEngine: Connected state: [1], networkType: [WIFI] [CONTEXT thread_id=54 ]
+01-08 22:01:58.401  1519  2169 I BugleRcsEngine: handleMessage processing message:[NOTIFY_UPTIME_IGNORE_STATE_CHANGED] with [non-null]:RcsEngineImpl reference [CONTEXT log_prefix="RcsEngineImpl[DUAL_REG]:[7fc40b8f-d1b9]>Handler" thread_id=61 ]
+01-08 22:01:58.404 10176 10176 I A       : (REDACTED) Created gRPC endpoint for service %s
+01-08 22:01:58.439  1519  2169 I BugleRcsEngine: No RCS Configuration was found in Bugle for simID: redacted-pii:sim_id[chars:20,last3:897] [CONTEXT log_prefix="ProvisioningEngineDataRetriever" thread_id=61 ]
+01-08 22:01:58.441   851   851 I wpa_supplicant: wlan0: CTRL-EVENT-BEACON-LOSS
+01-08 22:01:58.449  1153  1153 D SsBaseTemplateCard: No text view can be set up
+01-08 22:01:58.449  1153  1153 D SsBaseTemplateCard: Passed-in item info is null
+01-08 22:01:58.449  1153  1153 D SsBaseTemplateCard: Passed-in item info is null
+01-08 22:01:58.449  1153  1153 D SsBaseTemplateCard: Passed-in item info is null
+01-08 22:01:58.449  1153  1153 I SsBaseTemplateCard: Secondary card pane is null
+01-08 22:01:58.496 21658 21673 I android.vending: Background concurrent mark compact GC freed 4148KB AllocSpace bytes, 131(5700KB) LOS objects, 49% free, 9552KB/18MB, paused 13.597ms,1.830ms total 103.049ms
+01-08 22:01:58.510  1153  1584 D EGL_emulation: app_time_stats: avg=194.50ms min=1.02ms max=2612.02ms count=16
+01-08 22:01:58.516  1153  1153 D SearchTargetUtil: queryLength=0 size=15
+01-08 22:01:58.516  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=solo leveling season 2 anime,input_query=android.app.search.Query@f513548,group_id=web20496716,response_id=fd18ae7c-74f9-4df4-bc12-3c731bf31103,support_query_builder=false,} searchAction=solo leveling season 2 anime searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: c413b13b-4b08-442f-8b46-effb8464c935
+01-08 22:01:58.516  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=jasprit bumrah injury,input_query=android.app.search.Query@f513548,group_id=web20496716,response_id=fd18ae7c-74f9-4df4-bc12-3c731bf31103,support_query_builder=false,} searchAction=jasprit bumrah injury searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: 54eb4aa3-6307-4c41-b25e-dee81234bad4
+01-08 22:01:58.517  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=nyt connections hints january 4,input_query=android.app.search.Query@f513548,group_id=web20496716,response_id=fd18ae7c-74f9-4df4-bc12-3c731bf31103,support_query_builder=false,} searchAction=nyt connections hints january 4 searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: ad230361-7f31-4801-bb9b-5634e206de1a
+01-08 22:01:58.517  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=sonic hedgehog 3 streaming release date,input_query=android.app.search.Query@f513548,group_id=web20496716,response_id=fd18ae7c-74f9-4df4-bc12-3c731bf31103,support_query_builder=false,} searchAction=sonic hedgehog 3 streaming release date searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: b66393a9-ae8c-4ba0-bd94-13d94c9c9728
+01-08 22:01:58.517  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=new movies streaming,input_query=android.app.search.Query@f513548,group_id=web20496716,response_id=fd18ae7c-74f9-4df4-bc12-3c731bf31103,support_query_builder=false,} searchAction=new movies streaming searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: 4d2f79fa-5cd6-41c6-b1a6-e00b4c24a092
+01-08 22:01:58.517  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=human metapneumovirus hmpv outbreak,input_query=android.app.search.Query@f513548,group_id=web20496716,response_id=fd18ae7c-74f9-4df4-bc12-3c731bf31103,support_query_builder=false,} searchAction=human metapneumovirus hmpv outbreak searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: ea686eba-f520-4d0b-877a-c707c2bd183c
+01-08 22:01:58.517  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=fcc net neutrality rules,input_query=android.app.search.Query@f513548,group_id=web20496716,response_id=fd18ae7c-74f9-4df4-bc12-3c731bf31103,support_query_builder=false,} searchAction=fcc net neutrality rules searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: 97bb93c5-3af6-4147-9e46-c1491c5dc42e
+01-08 22:01:58.517  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=nintendo switch games,input_query=android.app.search.Query@f513548,group_id=web20496716,response_id=fd18ae7c-74f9-4df4-bc12-3c731bf31103,support_query_builder=false,} searchAction=nintendo switch games searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: 2058a4ee-ece6-43da-a427-884f314ac9f7
+01-08 22:01:58.517  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=moana 2 streaming release date,input_query=android.app.search.Query@f513548,group_id=web20496716,response_id=fd18ae7c-74f9-4df4-bc12-3c731bf31103,support_query_builder=false,} searchAction=moana 2 streaming release date searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: c9884298-8b27-427e-8b96-d8b69024306d
+01-08 22:01:58.517  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=nfl playoff format,input_query=android.app.search.Query@f513548,group_id=web20496716,response_id=fd18ae7c-74f9-4df4-bc12-3c731bf31103,support_query_builder=false,} searchAction=nfl playoff format searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: f6f4eae2-e6c3-4081-93c2-061db2b0cc3c
+01-08 22:01:58.517  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=spicy falafel pocket,input_query=android.app.search.Query@f513548,group_id=web20496716,response_id=fd18ae7c-74f9-4df4-bc12-3c731bf31103,support_query_builder=false,} searchAction=spicy falafel pocket searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: b0d9ac4a-73f7-42ac-afd6-c1b478bc33de
+01-08 22:01:58.517  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=real madrid vs valencia cf,input_query=android.app.search.Query@f513548,group_id=web20496716,response_id=fd18ae7c-74f9-4df4-bc12-3c731bf31103,support_query_builder=false,} searchAction=real madrid vs valencia cf searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: 6df5d60c-e04c-4dcf-aaae-0857a2aaeefb
+01-08 22:01:58.517  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=venus moon tonight,input_query=android.app.search.Query@f513548,group_id=web20496716,response_id=fd18ae7c-74f9-4df4-bc12-3c731bf31103,support_query_builder=false,} searchAction=venus moon tonight searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: 1fd926fa-90d7-4fb0-88e7-d8492d304262
+01-08 22:01:58.517  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=matthew livelsberger,input_query=android.app.search.Query@f513548,group_id=web20496716,response_id=fd18ae7c-74f9-4df4-bc12-3c731bf31103,support_query_builder=false,} searchAction=matthew livelsberger searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: 9cefbd87-9d18-4b80-9b40-c3551133cbe4
+01-08 22:01:58.517  1153  1153 D SearchTargetUtil: layoutType=short_icon_row resultType=131072 packageName=com.google.android.googlequicksearchbox extras=Bundle{suggestion_type=33,suggest_truncate_start=false,is_answer=false,is_entity=false,is_personal=false,suggest_raw_text=aurora borealis northern lights forecast,input_query=android.app.search.Query@f513548,group_id=web20496716,response_id=fd18ae7c-74f9-4df4-bc12-3c731bf31103,support_query_builder=false,} searchAction=aurora borealis northern lights forecast searchActionExtras=Bundle{learn_more_url=https://support.google.com/websearch/answer/106230?hl=106230,suggestion_action_text=Report this,should_start_for_result=true,allow_pinning=true,skip_logging_in_target_handler=true,suggestion_action_rpc=2,}ParentID: null targetID: 3262a357-27bb-4ebb-b71b-8756fb710498
+01-08 22:01:58.520 21864 21864 D VRI[MainActivity]: visibilityChanged oldVisibility=true newVisibility=false
+01-08 22:01:58.551   594   737 I ImeTracker: com.google.android.apps.nexuslauncher:24c5a47c: onRequestHide at ORIGIN_SERVER reason HIDE_UNSPECIFIED_WINDOW fromUser false
+01-08 22:01:58.551   594   737 I ImeTracker: com.google.android.apps.nexuslauncher:24c5a47c: onCancelled at PHASE_SERVER_SHOULD_HIDE
+01-08 22:01:58.553 21864 21864 D LifecycleMonitor: Lifecycle status change: com.example.app_educacion.MainActivity@572e3ca in: STOPPED
+01-08 22:01:58.553 21864 21864 V ActivityScenario: Update currentActivityStage to STOPPED, currentActivity=com.example.app_educacion.MainActivity@572e3ca
+01-08 22:01:58.556 21864 21864 D LifecycleMonitor: Lifecycle status change: com.example.app_educacion.MainActivity@572e3ca in: DESTROYED
+01-08 22:01:58.557 21864 21864 V ActivityScenario: Update currentActivityStage to DESTROYED, currentActivity=null
+01-08 22:01:58.557 21864 21864 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda11@bf8a556
+01-08 22:01:58.557  1337  1337 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3157
+01-08 22:01:58.559 21864 21864 D AutofillManager: view not autofillable - not passing ime action check
+01-08 22:01:58.559 21864 21864 D AutofillManager: view not autofillable - not passing ime action check
+01-08 22:01:58.560 21864 21887 E TestRunner: failed: testImageButton4Click(com.example.app_educacion.ExampleInstrumentedTest)
+01-08 22:01:58.562   393   432 I RanchuHwc: logCompositionFallbackIfChanged: layer 486 CompositionType fallback from 2 to 1
+01-08 22:01:58.566  1337  1337 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2248 repeatCheckTimes = 0, locked = false
+01-08 22:01:58.566  1337  1337 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1986 onStartInput(EditorInfo{EditorInfo{packageName=com.google.android.apps.nexuslauncher, inputType=0, inputTypeString=NULL, enableLearning=false, autoCorrection=false, autoComplete=false, imeOptions=0, privateImeOptions=null, actionName=UNSPECIFIED, actionLabel=null, initialSelStart=-1, initialSelEnd=-1, initialCapsMode=0, label=null, fieldId=0, fieldName=null, extras=null, hintText=null, hintLocales=[]}}, false)
+01-08 22:01:58.567  1337  1337 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2248 repeatCheckTimes = 1, locked = false
+01-08 22:01:58.567 21864 21887 E TestRunner: ----- begin exception -----
+01-08 22:01:58.567 21864 21887 E TestRunner: androidx.test.espresso.PerformException: Error performing 'single click' on view 'Animations or transitions are enabled on the target device.
+01-08 22:01:58.567 21864 21887 E TestRunner: For more info check: https://developer.android.com/training/testing/espresso/setup#set-up-environment
+01-08 22:01:58.567 21864 21887 E TestRunner:
+01-08 22:01:58.567 21864 21887 E TestRunner: view.getId() is <2131362055/com.example.app_educacion:id/imageButton4>'.
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at androidx.test.espresso.PerformException$Builder.build(PerformException.java:86)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at androidx.test.espresso.base.PerformExceptionHandler.handleSafely(PerformExceptionHandler.java:56)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at androidx.test.espresso.base.PerformExceptionHandler.handleSafely(PerformExceptionHandler.java:31)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler$TypedFailureHandler.handle(DefaultFailureHandler.java:158)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:120)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:385)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at androidx.test.espresso.ViewInteraction.desugaredPerform(ViewInteraction.java:212)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at androidx.test.espresso.ViewInteraction.perform(ViewInteraction.java:140)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at com.example.app_educacion.ExampleInstrumentedTest.testImageButton4Click(ExampleInstrumentedTest.kt:69)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.model.FrameworkMethod$1.runReflectiveCall(FrameworkMethod.java:59)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.internal.runners.model.ReflectiveCallable.run(ReflectiveCallable.java:12)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.model.FrameworkMethod.invokeExplosively(FrameworkMethod.java:56)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.internal.runners.statements.InvokeMethod.evaluate(InvokeMethod.java:17)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.rules.ExternalResource$1.evaluate(ExternalResource.java:54)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner$1.evaluate(BlockJUnit4ClassRunner.java:100)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner.runLeaf(ParentRunner.java:366)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:103)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.BlockJUnit4ClassRunner.runChild(BlockJUnit4ClassRunner.java:63)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at androidx.test.ext.junit.runners.AndroidJUnit4.run(AndroidJUnit4.java:162)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:128)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.Suite.runChild(Suite.java:27)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runners.ParentRunner.run(ParentRunner.java:413)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:137)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at org.junit.runner.JUnitCore.run(JUnitCore.java:115)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:68)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at androidx.test.internal.runner.TestExecutor.execute(TestExecutor.java:59)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at androidx.test.runner.AndroidJUnitRunner.onStart(AndroidJUnitRunner.java:463)
+01-08 22:01:58.567 21864 21887 E TestRunner: 	at android.app.Instrumentation$InstrumentationThread.run(Instrumentation.java:2594)
+01-08 22:01:58.567 21864 21887 E TestRunner: Caused by: java.lang.RuntimeException: Action will not be performed because the target view does not match one or more of the following constraints:
+01-08 22:01:58.567 21864 21887 E TestRunner: (view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() covers at least <90> percent of the view's area)
+01-08 22:01:58.567  1337  1337 I AndroidIME: InputBundleManager.loadActiveInputBundleId():450 loadActiveInputBundleId: und-Latn-x-password, password
+01-08 22:01:58.568 21864 21887 E TestRunner: Target view: "AppCompatImageView{id=2131362055, res-name=imageButton4, visibility=VISIBLE, width=818, height=1147, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.RelativeLayout$LayoutParams@YYYYYY, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}"
+01-08 22:01:58.568 21864 21887 E TestRunner: 	at androidx.test.espresso.ViewInteraction.doPerform(ViewInteraction.java:287)
+01-08 22:01:58.568 21864 21887 E TestRunner: 	at androidx.test.espresso.ViewInteraction.access$300(ViewInteraction.java:70)
+01-08 22:01:58.568 21864 21887 E TestRunner: 	at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:193)
+01-08 22:01:58.568 21864 21887 E TestRunner: 	at androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:182)
+01-08 22:01:58.568 21864 21887 E TestRunner: 	at java.util.concurrent.FutureTask.run(FutureTask.java:264)
+01-08 22:01:58.568 21864 21887 E TestRunner: 	at android.os.Handler.handleCallback(Handler.java:959)
+01-08 22:01:58.568 21864 21887 E TestRunner: 	at android.os.Handler.dispatchMessage(Handler.java:100)
+01-08 22:01:58.568 21864 21887 E TestRunner: 	at android.os.Looper.loopOnce(Looper.java:232)
+01-08 22:01:58.568 21864 21887 E TestRunner: 	at android.os.Looper.loop(Looper.java:317)
+01-08 22:01:58.568 21864 21887 E TestRunner: 	at android.app.ActivityThread.main(ActivityThread.java:8705)
+01-08 22:01:58.568 21864 21887 E TestRunner: 	at java.lang.reflect.Method.invoke(Native Method)
+01-08 22:01:58.568 21864 21887 E TestRunner: 	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:580)
+01-08 22:01:58.568 21864 21887 E TestRunner: 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:886)
+01-08 22:01:58.570 21864 21887 E TestRunner: ----- end exception -----
+01-08 22:01:58.577   594  1938 W InputManager-JNI: Input channel object '50d3fd4 com.example.app_educacion/com.example.app_educacion.MainActivity (client)' was disposed without first being removed with the input manager!
+01-08 22:01:58.580 21864 21887 I TestRunner: finished: testImageButton4Click(com.example.app_educacion.ExampleInstrumentedTest)

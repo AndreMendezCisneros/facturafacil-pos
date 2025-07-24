@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">544865975061</string>
+    <string name="google_api_key" translatable="false">AIzaSyDBUb3KdkCa2KlJO0POrEylAXRiFZ47GPg</string>
+    <string name="google_app_id" translatable="false">1:544865975061:android:94c9ff9e26fa5c2f22871c</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDBUb3KdkCa2KlJO0POrEylAXRiFZ47GPg</string>
+    <string name="google_storage_bucket" translatable="false">appeducacio-4800c.firebasestorage.app</string>
+    <string name="project_id" translatable="false">appeducacio-4800c</string>
+</resources>

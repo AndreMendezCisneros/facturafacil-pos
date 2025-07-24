@@ -1,0 +1,3 @@
+com.example.app_educacion.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

@@ -1,0 +1,29 @@
+EXECUTING: C:\Users\USUARIO\AppData\Local\Android\Sdk\build-tools\34.0.0\aapt.exe dump badging C:\Users\USUARIO\AndroidStudioProjects\app_educacion\app\build\intermediates\apk\androidTest\debug\app-debug-androidTest.apk
+CURRENT_WORKING_DIRECTORY: C:\Users\USUARIO\AndroidStudioProjects\app_educacion
+START_TIME: 2025-01-08 17:02:09.141
+START_TIME-NANOS: 2025-01-08 17:02:09.141338700
+ENVIRONMENT:
+
+*****************************************
+STDOUT/STDERR BELOW
+===================
+package: name='com.example.app_educacion.test' versionCode='' versionName='' platformBuildVersionName='15' platformBuildVersionCode='35' compileSdkVersion='35' compileSdkVersionCodename='15'
+sdkVersion:'24'
+targetSdkVersion:'34'
+uses-permission: name='android.permission.REORDER_TASKS'
+application: label='' icon=''
+application-debuggable
+uses-library:'android.test.runner'
+feature-group: label=''
+  uses-feature: name='android.hardware.faketouch'
+  uses-implied-feature: name='android.hardware.faketouch' reason='default feature for all apps'
+other-activities
+supports-screens: 'small' 'normal' 'large' 'xlarge'
+supports-any-density: 'true'
+locales: '--_--'
+densities: '160'
+===================
+END_TIME: 2025-01-08 17:02:09.182
+END_TIME-NANOS: 2025-01-08 17:02:09.182663200
+DURATION: 41ms
+EXIT CODE: 0

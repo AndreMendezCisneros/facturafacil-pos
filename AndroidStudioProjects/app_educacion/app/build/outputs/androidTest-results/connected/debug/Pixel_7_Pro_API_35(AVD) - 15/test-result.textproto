@@ -1,0 +1,281 @@
+# 2025-01-08T22:02:09.672081200Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 5
+}
+test_status: FAILED
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.example.app_educacion"
+    test_method: "testImageButton1Click"
+    start_time {
+      seconds: 1736373703
+      nanos: 158000000
+    }
+    end_time {
+      seconds: 1736373712
+      nanos: 205000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\logcat-com.example.app_educacion.ExampleInstrumentedTest-testImageButton1Click.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.example.app_educacion"
+    test_method: "testImageButton2Click"
+    start_time {
+      seconds: 1736373714
+      nanos: 123000000
+    }
+    end_time {
+      seconds: 1736373716
+      nanos: 912000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\logcat-com.example.app_educacion.ExampleInstrumentedTest-testImageButton2Click.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.example.app_educacion"
+    test_method: "testImageButton3Click"
+    start_time {
+      seconds: 1736373717
+      nanos: 763000000
+    }
+    end_time {
+      seconds: 1736373719
+      nanos: 959000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\logcat-com.example.app_educacion.ExampleInstrumentedTest-testImageButton3Click.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.example.app_educacion"
+    test_method: "testImageButton4Click"
+    start_time {
+      seconds: 1736373720
+      nanos: 991000000
+    }
+    end_time {
+      seconds: 1736373726
+      nanos: 462000000
+    }
+  }
+  test_status: FAILED
+  error {
+    error_message: "androidx.test.espresso.PerformException: Error performing \'single click\' on view \'Animations or transitions are enabled on the target device.\nFor more info check: https://developer.android.com/training/testing/espresso/setup#set-up-environment\n\nview.getId() is <2131362055/com.example.app_educacion:id/imageButton4>\'.\nat androidx.test.espresso.PerformException$Builder.build(PerformException.java:86)\nat androidx.test.espresso.base.PerformExceptionHandler.handleSafely(PerformExceptionHandler.java:56)\nat androidx.test.espresso.base.PerformExceptionHandler.handleSafely(PerformExceptionHandler.java:31)\nat androidx.test.espresso.base.DefaultFailureHandler$TypedFailureHandler.handle(DefaultFailureHandler.java:158)\nat androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:120)\nat androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:385)\nat androidx.test.espresso.ViewInteraction.desugaredPerform(ViewInteraction.java:212)\nat androidx.test.espresso.ViewInteraction.perform(ViewInteraction.java:140)\nat com.example.app_educacion.ExampleInstrumentedTest.testImageButton4Click(ExampleInstrumentedTest.kt:69)\n... 33 trimmed\nCaused by: java.lang.RuntimeException: Action will not be performed because the target view does not match one or more of the following constraints:\n(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() covers at least <90> percent of the view\'s area)\nTarget view: \"AppCompatImageView{id=2131362055, res-name=imageButton4, visibility=VISIBLE, width=818, height=1147, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.RelativeLayout$LayoutParams@YYYYYY, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}\"\nat androidx.test.espresso.ViewInteraction.doPerform(ViewInteraction.java:287)\nat androidx.test.espresso.ViewInteraction.access$300(ViewInteraction.java:70)\nat androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:193)\nat androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:182)\nat java.util.concurrent.FutureTask.run(FutureTask.java:264)\nat android.os.Handler.handleCallback(Handler.java:959)\nat android.os.Handler.dispatchMessage(Handler.java:100)\nat android.os.Looper.loopOnce(Looper.java:232)\nat android.os.Looper.loop(Looper.java:317)\nat android.app.ActivityThread.main(ActivityThread.java:8705)\nat java.lang.reflect.Method.invoke(Native Method)\nat com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:580)\nat com.android.internal.os.ZygoteInit.main(ZygoteInit.java:886)\n"
+    error_type: "java.lang.RuntimeException"
+    stack_trace: "androidx.test.espresso.PerformException: Error performing \'single click\' on view \'Animations or transitions are enabled on the target device.\nFor more info check: https://developer.android.com/training/testing/espresso/setup#set-up-environment\n\nview.getId() is <2131362055/com.example.app_educacion:id/imageButton4>\'.\nat androidx.test.espresso.PerformException$Builder.build(PerformException.java:86)\nat androidx.test.espresso.base.PerformExceptionHandler.handleSafely(PerformExceptionHandler.java:56)\nat androidx.test.espresso.base.PerformExceptionHandler.handleSafely(PerformExceptionHandler.java:31)\nat androidx.test.espresso.base.DefaultFailureHandler$TypedFailureHandler.handle(DefaultFailureHandler.java:158)\nat androidx.test.espresso.base.DefaultFailureHandler.handle(DefaultFailureHandler.java:120)\nat androidx.test.espresso.ViewInteraction.waitForAndHandleInteractionResults(ViewInteraction.java:385)\nat androidx.test.espresso.ViewInteraction.desugaredPerform(ViewInteraction.java:212)\nat androidx.test.espresso.ViewInteraction.perform(ViewInteraction.java:140)\nat com.example.app_educacion.ExampleInstrumentedTest.testImageButton4Click(ExampleInstrumentedTest.kt:69)\n... 33 trimmed\nCaused by: java.lang.RuntimeException: Action will not be performed because the target view does not match one or more of the following constraints:\n(view has effective visibility <VISIBLE> and view.getGlobalVisibleRect() covers at least <90> percent of the view\'s area)\nTarget view: \"AppCompatImageView{id=2131362055, res-name=imageButton4, visibility=VISIBLE, width=818, height=1147, has-focus=false, has-focusable=false, has-window-focus=true, is-clickable=false, is-enabled=true, is-focused=false, is-focusable=false, is-layout-requested=false, is-selected=false, layout-params=android.widget.RelativeLayout$LayoutParams@YYYYYY, tag=null, root-is-layout-requested=false, has-input-connection=false, x=0.0, y=0.0}\"\nat androidx.test.espresso.ViewInteraction.doPerform(ViewInteraction.java:287)\nat androidx.test.espresso.ViewInteraction.access$300(ViewInteraction.java:70)\nat androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:193)\nat androidx.test.espresso.ViewInteraction$1.call(ViewInteraction.java:182)\nat java.util.concurrent.FutureTask.run(FutureTask.java:264)\nat android.os.Handler.handleCallback(Handler.java:959)\nat android.os.Handler.dispatchMessage(Handler.java:100)\nat android.os.Looper.loopOnce(Looper.java:232)\nat android.os.Looper.loop(Looper.java:317)\nat android.app.ActivityThread.main(ActivityThread.java:8705)\nat java.lang.reflect.Method.invoke(Native Method)\nat com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:580)\nat com.android.internal.os.ZygoteInit.main(ZygoteInit.java:886)\n"
+  }
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\logcat-com.example.app_educacion.ExampleInstrumentedTest-testImageButton4Click.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ExampleInstrumentedTest"
+    test_package: "com.example.app_educacion"
+    test_method: "testLoginSuccess"
+    start_time {
+      seconds: 1736373726
+      nanos: 468000000
+    }
+    end_time {
+      seconds: 1736373727
+      nanos: 965000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\logcat-com.example.app_educacion.ExampleInstrumentedTest-testLoginSuccess.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "C:\\Users\\USUARIO\\AndroidStudioProjects\\app_educacion\\app\\build\\outputs\\androidTest-results\\connected\\debug\\Pixel_7_Pro_API_35(AVD) - 15\\testlog\\test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}
