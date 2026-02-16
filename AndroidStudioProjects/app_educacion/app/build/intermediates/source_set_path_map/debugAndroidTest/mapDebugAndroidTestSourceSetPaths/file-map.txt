@@ -1,6 +1,0 @@
-com.example.app_educacion.test.app-core-1.6.1-0 C:\Users\USUARIO\.gradle\caches\transforms-4\2a77c24ce6c72780901c05ed2d1cd19a\transformed\core-1.6.1\res
-com.example.app_educacion.test.app-tracing-1.2.0-1 C:\Users\USUARIO\.gradle\caches\transforms-4\e97750bf52d2624799eeafa609616d46\transformed\tracing-1.2.0\res
-com.example.app_educacion.test.app-androidTest-2 C:\Users\USUARIO\AndroidStudioProjects\app_educacion\app\build\generated\res\resValues\androidTest\debug
-com.example.app_educacion.test.app-mergeDebugAndroidTestResources-3 C:\Users\USUARIO\AndroidStudioProjects\app_educacion\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.app_educacion.test.app-mergeDebugAndroidTestResources-4 C:\Users\USUARIO\AndroidStudioProjects\app_educacion\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.app_educacion.test.app-debugAndroidTest-5 C:\Users\USUARIO\AndroidStudioProjects\app_educacion\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
