@@ -1,73 +1,162 @@
-# Welcome to your Lovable project
+# FacturaFácil POS
 
-## Project info
+Sistema de Punto de Venta (POS) y facturación electrónica para empresas peruanas, con integración completa a SUNAT.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 📋 Descripción
 
-## How can I edit this code?
+FacturaFácil POS es una aplicación web moderna desarrollada en React que permite gestionar ventas, facturación electrónica, inventario, clientes y más. El sistema está diseñado específicamente para cumplir con las normativas de facturación electrónica de SUNAT en Perú.
 
-There are several ways of editing your application.
+## ✨ Características Principales
 
-**Use Lovable**
+- 🧾 **Facturación Electrónica**: Emisión de comprobantes electrónicos (facturas, boletas, notas de crédito/débito) con integración SUNAT
+- 💰 **Punto de Venta (POS)**: Sistema completo de ventas con gestión de sesiones de caja
+- 📦 **Gestión de Inventario**: Control de stock, kardex, transferencias entre almacenes
+- 👥 **Gestión de Clientes y Proveedores**: Base de datos completa de contactos comerciales
+- 🛒 **Gestión de Productos**: Catálogo de productos con categorías, códigos de barras y control de stock
+- 📊 **Reportes y Dashboard**: Visualización de métricas y estadísticas de ventas
+- 🔐 **Autenticación y Roles**: Sistema de usuarios con permisos y auditoría
+- 🏢 **Multi-empresa**: Soporte para múltiples empresas con selección de contexto
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## 🛠️ Tecnologías Utilizadas
 
-Changes made via Lovable will be committed automatically to this repo.
+- **Frontend Framework**: React 18 con TypeScript
+- **Build Tool**: Vite
+- **UI Components**: shadcn/ui (Radix UI + Tailwind CSS)
+- **State Management**: TanStack Query (React Query)
+- **HTTP Client**: Axios
+- **Routing**: React Router DOM
+- **Formularios**: React Hook Form + Zod
+- **Gráficos**: Recharts
+- **Estilos**: Tailwind CSS
 
-**Use your preferred IDE**
+## 📦 Instalación
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### Requisitos Previos
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Node.js 18+ y npm (o yarn/pnpm)
+- Git
 
-Follow these steps:
+### Pasos de Instalación
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+```bash
+# 1. Clonar el repositorio
+git clone https://github.com/AndreMendezCisneros/facturafacil-pos.git
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+# 2. Navegar al directorio del proyecto
+cd facturafacil-pos
 
-# Step 3: Install the necessary dependencies.
-npm i
+# 3. Instalar dependencias
+npm install
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# 4. Configurar variables de entorno
+# Crear archivo .env.local con:
+# VITE_API_URL=http://localhost:8000/api
+# VITE_APP_NAME=FacturaFácil POS
+
+# 5. Iniciar servidor de desarrollo
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+La aplicación estará disponible en `http://localhost:5173`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🚀 Scripts Disponibles
 
-**Use GitHub Codespaces**
+```bash
+# Desarrollo
+npm run dev          # Inicia servidor de desarrollo con hot-reload
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+# Producción
+npm run build        # Construye la aplicación para producción
+npm run build:dev    # Construye en modo desarrollo
+npm run preview      # Previsualiza la build de producción
 
-## What technologies are used for this project?
+# Calidad de Código
+npm run lint         # Ejecuta ESLint
+npm run test         # Ejecuta tests unitarios
+npm run test:watch   # Ejecuta tests en modo watch
+```
 
-This project is built with:
+## 📁 Estructura del Proyecto
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+```
+facturafacil-pos/
+├── src/
+│   ├── components/      # Componentes reutilizables
+│   │   ├── ui/         # Componentes UI (shadcn/ui)
+│   │   └── layout/     # Componentes de layout
+│   ├── contexts/       # Contextos de React (Auth, etc.)
+│   ├── hooks/          # Custom hooks (React Query)
+│   ├── lib/            # Utilidades y configuraciones
+│   │   ├── api.ts      # Cliente API centralizado
+│   │   ├── constants.ts # Constantes y catálogos SUNAT
+│   │   └── utils.ts    # Funciones utilitarias
+│   ├── pages/          # Páginas/Views de la aplicación
+│   │   ├── admin/      # Páginas de administración
+│   │   ├── clients/     # Gestión de clientes
+│   │   ├── invoices/   # Facturación
+│   │   ├── inventory/  # Inventario
+│   │   ├── pos/        # Punto de venta
+│   │   ├── products/   # Productos
+│   │   └── ...
+│   ├── types/          # Tipos TypeScript
+│   └── main.tsx        # Punto de entrada
+├── public/             # Archivos estáticos
+└── package.json
+```
 
-## How can I deploy this project?
+## 🔧 Configuración
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+### Variables de Entorno
 
-## Can I connect a custom domain to my Lovable project?
+Crea un archivo `.env.local` en la raíz del proyecto:
 
-Yes, you can!
+```env
+VITE_API_URL=http://localhost:8000/api
+VITE_APP_NAME=FacturaFácil POS
+```
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+### API Backend
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Este frontend requiere un backend API compatible. Asegúrate de que el backend esté corriendo y accesible en la URL configurada en `VITE_API_URL`.
+
+## 📚 Documentación
+
+- Ver [PROGRESO_IMPLEMENTACION.md](./PROGRESO_IMPLEMENTACION.md) para detalles del estado actual de implementación
+- Los tipos TypeScript están documentados en `src/types/index.ts`
+- Los hooks de React Query están en `src/hooks/`
+
+## 🧪 Testing
+
+```bash
+# Ejecutar todos los tests
+npm run test
+
+# Ejecutar tests en modo watch
+npm run test:watch
+```
+
+## 🤝 Contribución
+
+1. Fork el proyecto
+2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
+3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
+4. Push a la rama (`git push origin feature/AmazingFeature`)
+5. Abre un Pull Request
+
+## 📝 Licencia
+
+Este proyecto es privado y de uso interno.
+
+## 👥 Autor
+
+**André Méndez Cisneros**
+
+- GitHub: [@AndreMendezCisneros](https://github.com/AndreMendezCisneros)
+
+## 📞 Soporte
+
+Para soporte, abre un issue en el repositorio de GitHub.
+
+---
+
+**Nota**: Este proyecto está en desarrollo activo. Algunas funcionalidades pueden estar en construcción.
